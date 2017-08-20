@@ -1,0 +1,12 @@
+#CustomJoinQuitMessages
+#By MegaDestroyerX
+#Version: 1.0
+
+#Variables:
+#  %player% - for player name!
+
+#Join Message:
+join-msg: "&2&l%player% &ajoined!"
+
+#Quit Message:
+quit-msg: "&2&l%player% &aleft!"

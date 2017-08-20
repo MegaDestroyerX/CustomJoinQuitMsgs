@@ -1,0 +1,26 @@
+name: CustomJoinQuitMsgs
+version: 1.0
+main: me.mdx.customjoinquitmsgs.CustomJoinQuitMsgs
+description: Custom Join QUit Messages
+
+commands:
+    cm:
+        usage: /<command>
+        description: Basic info about plugin!
+        
+    cmreload:
+        usage: /<command>
+        description: Reloads the config!
+        
+    cmsetjoin:
+        usage: /<command>
+        description: Sets Join Message!
+        
+    cmsetquit:
+        usage: /command>
+        descripiton: Sets Quit Message!
+        
+permissions:
+    cm.admin:
+        descripiton: Allows all commands of this plugin!
+        default: op
